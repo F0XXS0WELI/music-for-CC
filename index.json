@@ -1,0 +1,16 @@
+{
+  "latestVersion": "3.2.1",
+  "indexName":"Apollo",
+  "songs": [
+    {
+      "type":"song",
+      "name":"Supersonic (My existence)",
+      "author": "Skrillex, Nosia, josh pan, Dylan Brady",
+      "speed": 1,
+      "file":"https://github.com/knijn/musicify-songs/raw/main/skrillex/skrillex-supersonic.dfpwm",
+      "time": 166
+    },
+
+    }
+  ]
+}
