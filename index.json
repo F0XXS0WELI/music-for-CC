@@ -4,11 +4,11 @@
   "songs": [
     {
       "type":"song",
-      "name":"Supersonic (My existence)",
-      "author": "Skrillex, Nosia, josh pan, Dylan Brady",
+      "name":"Honeyhive Galaxy",
+      "author": "Silvagunner",
       "speed": 1,
-      "file":"https://github.com/knijn/musicify-songs/raw/main/skrillex/skrillex-supersonic.dfpwm",
-      "time": 166
+      "file":"https://github.com/F0XXS0WELI/music-for-CC/blob/89dff688989f1183a063948de212f8688db27e1d/Honeyhive_galaxy",
+      "time": 152
     },
 
     }
